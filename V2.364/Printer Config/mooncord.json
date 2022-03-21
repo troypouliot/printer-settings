@@ -3,7 +3,7 @@
         "moonraker_socket_url": "ws://127.0.0.1/websocket",
         "moonraker_url": "http://127.0.0.1",
         "moonraker_token": "",
-        "bot_token": "OTU0NzEyMzI2MzkxNTk1MDA4.YjXHJA.U6IOml1euz8fXP_Yak_bdVDAiII"
+        "bot_token": ""
     },
     "logger": {
         "disable_file": false,
@@ -33,7 +33,7 @@
     "permission": {
         "controllers": {
             "roles": "",
-            "users": "620679104383156258"
+            "users": ""
         }
     },
     "webcam": {
