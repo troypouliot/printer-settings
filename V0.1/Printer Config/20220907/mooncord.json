@@ -1,0 +1,47 @@
+{
+    "connection": {
+        "moonraker_socket_url": "ws://127.0.0.1/websocket",
+        "moonraker_url": "http://127.0.0.1",
+        "moonraker_token": "8c66ba7353f94ea1ad9afe3282ad5389",
+        "moonraker_retry_interval": 2,
+        "bot_token": "OTIwMzYzODYyODcwNjA1ODc0.YbjRpA.SjYe6eJzMyGlmGcy4hYZfKy83Ew"
+    },
+    "logger": {
+        "disable_file": false,
+        "path": ""
+    },
+    "tmp_path": "../temp",
+    "status": {
+        "update_interval": 10,
+        "use_percent": true,
+        "min_interval": 15,
+        "before": {
+            "enable": false,
+            "delay": 0,
+            "execute": []
+        },
+        "after": {
+            "enable": false,
+            "delay": 0,
+            "execute": []
+        }
+    },
+    "messages": {
+        "show_no_permission_private": true,
+        "icon_set": "acryl",
+        "entries_per_page": 8
+    },
+    "custom_info": "Thanks for installing MoonCord and Happy Printing ❤",
+    "language": {
+        "date_locale": "de-DE",
+        "messages": "en",
+        "command_syntax": "en",
+        "buttons_use_syntax_locale": false
+    },
+    "permission": {
+        "controllers": {
+            "roles": "",
+            "users": "620679104383156258"
+        }
+    }
+}
